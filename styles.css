@@ -1,0 +1,18 @@
+.number_container{
+    background-color:red;
+    border:0px solid black;
+    width:1px;
+    height:1px;
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    position:absolute;
+    top:20vh;
+    left:20vw;
+    align-items:center;
+}
+.number_image{
+    width:2vw;
+    height:2vw;
+    image-rendering: pixelated;
+}
